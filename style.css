@@ -1,3 +1,16 @@
+table {
+    border-spacing: 0px;
+    width: 600px;
+}
+
+table, td {
+    border: 1px solid black;
+}
+
+td {
+    padding: 15px;
+}
+
 tr.row1 {
     background-color: #078f8f;
 }
